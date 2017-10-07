@@ -1,0 +1,11 @@
+namespace NumberTron {
+  class Runner {
+    static void Main(string[] args) {
+
+    }
+  }
+
+  class Player {
+      
+  }
+}
