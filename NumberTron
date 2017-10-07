@@ -6,6 +6,12 @@ namespace NumberTron {
   }
 
   class Player {
-      
+    string name;
+    string number;
+
+    Player (string name, int number) {
+        this.name = name;
+        this.number = number;
+    }
   }
 }
