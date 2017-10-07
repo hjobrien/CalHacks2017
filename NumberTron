@@ -14,4 +14,8 @@ namespace NumberTron {
         this.number = number;
     }
   }
+
+  class Board {
+    
+  }
 }
